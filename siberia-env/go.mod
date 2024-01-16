@@ -1,3 +1,8 @@
+// Copyright (c) 2024 Nikolai Osipov <nao99.dev@gmail.com>
+//
+// All rights are reserved
+// Information about license can be found in the LICENSE file
+
 module github.com/nao99/siberia-projects/siberia-env
 
 go 1.21
